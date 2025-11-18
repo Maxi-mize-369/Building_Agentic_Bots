@@ -1,6 +1,6 @@
 # Repo Description
 
-This project-based repo takes you on a hands-on journey into the world of agentic and AI-powered chatbots. 
+This is a project oriented learning repo takes you on a hands-on journey into the world of agentic and AI-powered chatbots. 
 You’ll start with the basics of AI and natural language processing, then gradually dive into modern frameworks like LangChain, LangGraph, and advanced Retrieval-Augmented Generation (RAG) systems.
 
 Instead of just learning theory, you’ll be building real, production-ready AI systems from the ground up. 
@@ -18,4 +18,10 @@ By the end, you’ll have created fully functional chatbots and autonomous AI ag
 
   * Deploying, testing, and scaling your chatbots for real-world applications.
 
-# And tust me , you would love the tone and the flow !
+# Tust me , you would love the tone and the flow !
+
+## What we will be cooking ?
+ * Build Chatbot and evolve it to an extremly complex production grade application.
+ * Build Agents , relevant tools , memory state and implement a orchestration layer.
+ * and lasly build a hihgly sophisticated workflows aiming to address real world ps.
+ * + a bunch of project ideas as HW :)
