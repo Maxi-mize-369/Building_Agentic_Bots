@@ -8,7 +8,7 @@ By the end, you’ll have created fully functional chatbots and autonomous AI ag
 
 ---
 
-## Throughout the course, you’ll gain practical, in-demand skills such as:
+## Throughout the journey, you’ll gain practical, in-demand skills such as:
 
 - Understanding how intelligent assistants are designed and structured.
 - Connecting large language models (LLMs) with knowledge bases using RAG.
